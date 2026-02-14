@@ -15,4 +15,4 @@ accCity = "Jodhpur"
 console.table([accId, accEmail, accPass, accCity, accState])
 
 //"let" and "var" are the keywords used for variable declaration... but there is scope problem in "var" variable... so it is mostly suggested that we should use "let" insted of "var"
-
+ 
